@@ -1,6 +1,6 @@
 # Network Checker
 
-[![GitHub stars](https://img.shields.io/github/stars/CADEION/Network-Checker.svg)](https://github.com/CADEION/Network-Checker/stargazers)
+
 [![GitHub issues](https://img.shields.io/github/issues/CADEION/Network-Checker.svg)](https://github.com/CADEION/Network-Checker/issues)
 [![GitHub license](https://img.shields.io/github/license/CADEION/Network-Checker.svg)](https://github.com/CADEION/Network-Checker/blob/main/LICENSE)
 
